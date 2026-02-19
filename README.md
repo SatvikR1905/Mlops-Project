@@ -43,5 +43,6 @@
 ```
 
 # Airflow Result
-![WhatsApp Image 2026-01-30 at 1 38 15 AM](https://github.com/user-attachments/assets/01f99450-abc7-49d5-bee8-c363ecb5534a)
+![picture](https://github.com/user-attachments/assets/ca446a39-b9bd-495f-b608-61787f550c66)
+
 
